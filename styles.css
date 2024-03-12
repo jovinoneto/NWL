@@ -45,21 +45,16 @@ header div:hover {
 
 header div img {
     width: 100%;
-}
-
-header img {
-    width: 120px;
     border-radius: 50%;
 }
 
 main {
-    min-width: 500px;
+    max-width: 580px;
     width: 90%;
-    margin: auto;
+    margin: 32px auto;
 
     display: grid;
     gap: 24px;
-    margin-top: 32px;
 }
 
 section {
